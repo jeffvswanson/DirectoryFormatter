@@ -6,7 +6,7 @@
   Created using Python 3.7.1. No special directories or support needed. The OS package is platform agnostic so this program should work on Mac, Linux, and Windows.
   
 ## Contact and License
-  Jeff Swanson, swansonjv08@gmail.com
+  Jeff Swanson, jeff.v.swanson@gmail.com
   
   Distributed under the Mozilla Public License Version 2.0.
   
